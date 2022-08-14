@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Add Note" android:id="@+id/add_note_menu"></item>
+    <item android:title="Add Task" android:id="@+id/add_task_menu"></item>
+</menu>
